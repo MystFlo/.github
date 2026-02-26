@@ -16,6 +16,22 @@ MystFlo gives you pre-built virtual assistants that handle it for you. No code. 
 
 ---
 
+### Explore — Browse assistants by outcome
+
+![MystFlo Explore](https://raw.githubusercontent.com/MystFlo/.github/main/assets/mockup-explore.png)
+
+Browse 13+ assistants organized by what they do for your business — Customer Chat, Get Paid, Run the Shop, Build Your Brand. Each card shows the price per run, required apps, and a demo you can watch before activating.
+
+---
+
+### Pulse — Your control room
+
+![MystFlo Pulse](https://raw.githubusercontent.com/MystFlo/.github/main/assets/mockup-pulse.png)
+
+Monitor every assistant in real-time. Track runs, health, cost, and attention flags. Pause, resume, or stop any assistant instantly.
+
+---
+
 ### How It Works
 
 ```
@@ -53,8 +69,7 @@ App and AI costs go directly to your connected accounts — not through MystFlo.
 
 ### Links
 
-🌐 [mystflo.com](https://mystflo.com)
-🚀 [platform.mystflo.com](https://platform.mystflo.com)
+[mystflo.com](https://mystflo.com) · [platform.mystflo.com](https://platform.mystflo.com)
 
 ---
 
